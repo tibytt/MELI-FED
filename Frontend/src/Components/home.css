@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.home__fakeBanner {
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+@media (max-width: 1290px) {
+  .home__fakeBanner {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
