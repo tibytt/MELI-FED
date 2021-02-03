@@ -6,3 +6,4 @@ Como correr el proyecto.
 - abrir carpeta Frontend
 - correr npm install en la consola
 - correr npm start
+- abrir la app en http://localhost:3000
